@@ -1,6 +1,6 @@
 # node-cache
 
-Simple cache for node.js
+Simple query cache system for node.js
 
 ## Install
 
