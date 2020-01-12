@@ -1,4 +1,4 @@
-# node-cache
+# Node query cache
 
 Simple query cache system for node.js
 
